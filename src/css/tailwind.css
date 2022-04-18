@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+.title-main {
+  @apply text-green-600 font-extralight text-2xl md:text-4xl;
+}
+.title-text {
+  @apply text-6xl font-extrabold text-transparent bg-clip-text text-center bg-gray-300;
+}
+.main-text {
+  @apply text-white text-xs md:text-lg;
+}
+@import "tailwindcss/utilities";
