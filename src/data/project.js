@@ -11,7 +11,7 @@ const work = [
   {
     title: "dotfiles",
     image:
-      "https://thumbs.dreamstime.com/b/no-image-available-icon-flat-vector-no-image-available-icon-flat-vector-illustration-132482953.jpg",
+      "https://raw.githubusercontent.com/nogtoGH/Protfolio/main/public/images/icons/dotfile.png",
     description: "i3wm , polybar termianl allacrity and more",
     tools: ["dotfiles ,", "i3wm", "polybar", "allacrity"],
     github: "https://github.com/nogtoGH/nogto",
